@@ -24,6 +24,7 @@ Cloud & DevOps: AWS (Textract, S3), Docker, Git, Composio, REST APIs
 Software Development and Testing: Software Testing Life Cycle (STLC), Quality Assurance (QA), Test Automation, Katalon Studio
 
 Connect with Me >.<
+
 LinkedIn: https://www.linkedin.com/in/lipi-inampudi/
 
 Email: lipi.edu01@gmail.com
