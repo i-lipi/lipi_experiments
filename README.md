@@ -1,4 +1,5 @@
 Hello! I'm Lipi Inampudi  :)
+Engineer • AI Enthusiast • Data-Driven Builder
 
 Welcome to my AI portfolio!
 I'm a Software Engineer with a Master’s degree in Business Analytics and AI. I have a strong interest in building intelligent systems that leverage data, automation, and modern AI tools to solve real-world problems. My work spans across AI development, data analysis, and full-stack engineering, with a focus on delivering scalable, impactful solutions.
