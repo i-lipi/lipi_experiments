@@ -1,4 +1,4 @@
-Hello! I'm Lipi Inampudi
+Hello! I'm Lipi Inampudi ~_~
 
 Welcome to my AI portfolio!
 I'm a Software Engineer with a Master’s degree in Business Analytics and AI. I have a strong interest in building intelligent systems that leverage data, automation, and modern AI tools to solve real-world problems. My work spans across AI development, data analysis, and full-stack engineering, with a focus on delivering scalable, impactful solutions.
@@ -23,6 +23,7 @@ Databases: PostgreSQL, MySQL, MongoDB
 Cloud & DevOps: AWS (Textract, S3), Docker, Git, Composio, REST APIs
 Software Development and Testing: Software Testing Life Cycle (STLC), Quality Assurance (QA), Test Automation, Katalon Studio
 
-Connect with Me
+Connect with Me >.<
 LinkedIn: https://www.linkedin.com/in/lipi-inampudi/
+
 Email: lipi.edu01@gmail.com
