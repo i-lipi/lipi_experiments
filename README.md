@@ -1,4 +1,5 @@
 Hello! I'm Lipi Inampudi  :)
+
 Engineer • AI Enthusiast • Data-Driven Builder
 
 Welcome to my AI portfolio!
