@@ -16,11 +16,17 @@ I'm a Software Engineer with a Master’s degree in Business Analytics and AI. I
     https://github.com/i-lipi/Gmail_Summary
 
 Technical Skills:
+
 Programming & Scripting: Python, Java, SQL, JavaScript
+
 Data Analytics: Pandas, Excel, Tableau, Power BI, SAP HANA
+
 Machine Learning & AI: OpenAI, Hugging Face, CrewAI, LangChain, Scikit-learn, OCR, Prompt Engineering
+
 Databases: PostgreSQL, MySQL, MongoDB
+
 Cloud & DevOps: AWS (Textract, S3), Docker, Git, Composio, REST APIs
+
 Software Development and Testing: Software Testing Life Cycle (STLC), Quality Assurance (QA), Test Automation, Katalon Studio
 
 Connect with Me >.<
