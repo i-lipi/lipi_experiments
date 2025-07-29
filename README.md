@@ -16,7 +16,10 @@ I'm a Software Engineer with a Master’s degree in Business Analytics and AI. I
 
 * Gmail Summary Prioritizer
     https://github.com/i-lipi/Gmail_Summary
-
+  
+* X post with manual approval
+  https://github.com/i-lipi/xpost_with_manual_approval
+  
 Technical Skills:
 
 Programming & Scripting: Python, Java, SQL, JavaScript
