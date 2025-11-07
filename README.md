@@ -7,12 +7,14 @@ I'm a Software Engineer with a Master’s degree in Business Analytics and AI. I
 
 * Claims Document Classifier:
   https://github.com/i-lipi/Claims_Processing
+  Loom Video of the project is available
 
 * PDF Chatbot with Metadata-Aware RAG
    https://github.com/i-lipi/PDF_Chatbot
 
 * Doctor Conference Email Generator
    https://github.com/i-lipi/doctor-conferences-email-generator
+   Loom Video of the project is available
 
 * Gmail Summary Prioritizer
     https://github.com/i-lipi/Gmail_Summary
